@@ -7,7 +7,7 @@ import retrofit2.http.Path;
 
 public interface ApiService {
 
-    @GET("{repo}/latest")
+    @GET("{repo}/latest.json")
     Call<PayloadFileResponse> getPayload(
             @Path("repo") String repo
     );

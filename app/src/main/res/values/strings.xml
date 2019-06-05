@@ -2,4 +2,12 @@
     <string name="app_name">Jumbo Android</string>
     <string name="version">Version :</string>
     <string name="status">Status :</string>
+    <string name="status_checking">Checking updates…</string>
+    <string name="status_updated">Just updated</string>
+    <string name="status_up_to_date">Up to date</string>
+    <string name="status_error">Error</string>
+    <string name="unknown">\?</string>
+
+    <string name="public_Key" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx+AGTuBG7W0/4zcb979Lqn+IbGl+fHMBXo5nWJ088cIfI/nken6Z8uVCoLdDitJWVghXdK+50vPT/049vBX4fJSZjIYf2CQrzthVvW8UM0uSa59AjYBjPTBmyE2jus5LbtXqx4/xorcBcEksNAl/2CUoFpyxzfn5+CMpH2qnimk/KIRHUDx+qU1qz/qHxhCzaLJXBmHUvzPa2orU78Ca02Xo7Fg8L5cN/FMUvHk5Mn4TTHaAdDKNdvDgkfXlpl80QnT9yRFyeAVaWu6GA1PWXlODgFTSHOObyJazjoEpwZKVaoiB82hKXcWrH/5wD8n8ll9ysGtKGzNMePHqHKXM6wIDAQAB</string>
+
 </resources>

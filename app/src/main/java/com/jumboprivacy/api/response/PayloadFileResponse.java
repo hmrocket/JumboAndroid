@@ -2,20 +2,20 @@ package com.jumboprivacy.api.response;
 
 public class PayloadFileResponse {
 
-    private PayloadResponse payload;
+    private String payload;
     private String signature;
 
 
-    public PayloadFileResponse(PayloadResponse payload, String signature) {
+    public PayloadFileResponse(String payload, String signature) {
         this.payload = payload;
         this.signature = signature;
     }
 
-    public PayloadResponse getPayload() {
+    public String getPayload() {
         return payload;
     }
 
-    public void setPayload(PayloadResponse payload) {
+    public void setPayload(String payload) {
         this.payload = payload;
     }
 
